@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+&l;地图&t;
+    <string name="correlation_id">t.d26679cf-75a7-11ee-9c27-5afb52855afe</string>
+    <string name="warp_public_key">PTY4qbUo5NRN/GwhPXY8Saxq6qPACo2rDM4X2rQuQHI=</string>
+    <boolean name="is_device_name_submitted" value="true" />
+    <boolean name="missing_splits" value="false" />
+    <boolean name="power_manager_warning_shown" value="true" />
+    <boolean name="switch_locked" value="false" />
+    <string name="gatewayUniqueID">8965add6fc747cd337078cc5cd0ed0fc</string>
+    字符串名称="熟悉的
+    <boolean name="terms_accepted" value="false" />
+    <string name="warp_tunnel_config">{&quot;peers&quot;:[{&quot;public_key&quot;:&quot;bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=&quot;,&quot;endpoint&quot;:{&quot;v4&quot;:&quot;162.159.193.1:0&quot;,&quot;v6&quot;:&quot;[2606:4700:100::a29f:c101]:0&quot;}}],&quot;client_id&quot;:&quot;/yLv&quot;,&quot;interface&quot;:{&quot;addresses&quot;:{&quot;v4&quot;:&quot;172.16.0.2&quot;,&quot;v6&quot;:&quot;2606:4700:110:8018:3a2:cc31:960:8681&quot;}},&quot;services&quot;:{&quot;http_proxy&quot;:&quot;172.16.0.1:2480&quot;}}</string>
+    <string name="warp_account">{"id":"8965add6fc747cd337078cc5cd0ed0fc","account_type":"团队","premium_data":0,"quota":0,"referral_count":0, “托管”：“not_api_托管”}</string>
+    <string name="warp_registration_id">t.d26679cf-75a7-11ee-9c27-5afb52855afe</string>
+    <string name="account_policy">{&quot;managed&quot;:&quot;not_api_managed&quot;,&quot;accountAppConfiguration&quot;:{&quot;organization&quot;:&quot;yjj798&quot;,&quot;gateway_unique_id&quot;:&quot;8965add6fc747cd337078cc5cd0ed0fc&quot;,&quot;exclude&quot;:[{&quot;address&quot;:&quot;10.0.0.0/8&quot;},{&quot;address&quot;:&quot;100.64.0.0/10&quot;},{&quot;address&quot;:&quot;169.254.0.0/16&quot;,&quot;description&quot;:&quot;DHCP Unspecified&quot;},{&quot;address&quot;:&quot;172.16.0.0/12&quot;},{&quot;address&quot;:&quot;192.0.0.0/24&quot;},{&quot;address&quot;:&quot;192.168.0.0/16&quot;},{&quot;address&quot;:&quot;224.0.0.0/24&quot;},{&quot;address&quot;:&quot;240.0.0.0/4&quot;},{&quot;address&quot;:&quot;255.255.255.255/32&quot;,&quot;description&quot;:&quot;DHCP Broadcast&quot;},{&quot;address&quot;:&quot;fe80::/10&quot;,&quot;description&quot;:&quot;IPv6 Link Local&quot;},{&quot;address&quot;:&quot;fd00::/8&quot;},{&quot;address&quot;:&quot;ff01::/16&quot;},{&quot;address&quot;:&quot;ff02::/16&quot;},{ */16;和;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;。……………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………后缀;;;;;;后缀;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;。……;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;。Quot;host"},{"suffix":"corp"},{"suffix":"local"},{"suffix":"localhost"},{"suffix":"invalid"},{"suffix":"test"}],"allow_mode_switch":false}}</string>
+    <boolean name="show_enable_warp_dialog" value="false" />
+    <string name="terms_acceptance_date">2023-10-28T23:34:04.291+08:00</string>
+    <int name="auto_connect" value="-1" />
+    <string name="gatewayJWT">eyJhbGciOiJSUzI1NiIsImtpZCI6ImNmZjQ4ZmY1YzkxMDVmNDkyNTlkYTI0OWJjN2U1ZTY5YmQzYjBmYWNiZTkzNGM0ZjIyZmRjN2MxNGQ2YjAyYjYifQ.eyJ0eXBlIjoiZG9oIiwiYXVkIjoiY2xvdWRmbGFyZS1nYXRld2F5LmNvbSIsImlhdCI6MTY5ODUwNzQxNSwiZXhwIjoxNjk4NTkzODE1LCJhY2NvdW50LWlkIjoiODk2NWFkZDZmYzc0N2NkMzM3MDc4Y2M1Y2QwZWQwZmMiLCJ1c2VyLWlkIjoiZjFkMzU1Y2QtMjczMy01YWUyLWExMGEtNzRlY2U1M2FiNDVjIiwiZGV2aWNlLWlkIjoiZDI2Njc5Y2YtNzVhNy0xMWVlLTljMjctNWFmYjUyODU1YWZlIn0.GxSHChf9oddF32dHTRlRLgxeQ7jyEqWWsYrHwn0LtR77zh9FzbhTr0bl7SWrtsev9ic0V72cqvoiCiiekwZQ3CLPCpjpZQVx0KQFHdhAqL9Dc9TQltu9-GwFOZT0Ioju-9JM02GSP0G7kq5IqvsqQfmslLXLw_4s64TthdG6gIpquhO5xpJqlXwn9KhguyDHcBwbfmIP3CdYqqHHRXLfCt3_Fz5kcrVuI7Lw6sigKAaoUGH4MaQOSF0OEVzJJTtbko0QTvaPOejIKEs_zPNGC0ybdnflhRzQwMQGpiT_pJ1qESSqErybX1Ho9jujhw9PZy-szswiFKh8jsefGSgwkA</string>
+    <string name="app_mode">WARP</string>
+    <string name="remote_config">{&quot;organization&quot;:&quot;yjj798&quot;,&quot;gateway_unique_id&quot;:&quot;8965add6fc747cd337078cc5cd0ed0fc&quot;,&quot;exclude&quot;:[{&quot;address&quot;:&quot;10.0.0.0/8&quot;},{&quot;address&quot;:&quot;100.64.0.0/10&quot;},{&quot;address&quot;:&quot;169.254.0.0/16&quot;,&quot;description&quot;:&quot;DHCP Unspecified&quot;},{&quot;address&quot;:&quot;172.16.0.0/12&quot;},{&quot;address&quot;:&quot;192.0.0.0/24&quot;},{&quot;address&quot;:&quot;192.168.0.0/16&quot;},{&quot;address&quot;:&quot;224.0.0.0/24&quot;},{&quot;address&quot;:&quot;240.0.0.0/4&quot;},{&quot;address&quot;:&quot;255.255.255.255/32&quot;,&quot;description&quot;:&quot;DHCP Broadcast&quot;},{&quot;address&quot;:&quot;fe80::/10&quot;,&quot;description&quot;:&quot;IPv6 Link Local&quot;},{&quot;address&quot;:&quot;fd00::/8&quot;},{&quot;address&quot;:&quot;ff01::/16&quot;},{&quot;address&quot;:&quot;ff02::/16&quot;},{&quot;address&quot;:&quot;ff03::/16&quot;},{&quot;address&quot;:&quot;ff04::/16&quot;},{&quot;address&quot;:&quot;ff05::/16&quot;}],&quot;fallback_domains&quot;:[{&quot;suffix&quot;:&quot;home.arpa&quot;},{&quot;suffix&quot;:&quot;intranet&quot;},{&quot;suffix&quot;:&quot;internal&quot;},{&quot;suffix&quot;:&quot;private&quot;},{&quot;suffix&quot;:&quot;localdomain&quot;},{&quot;suffix&quot;:&quot;domain&quot;},{&quot;suffix&quot;:&quot;lan&quot;},{&quot;suffix&quot;:&quot;home&quot;},{&quot;suffix&quot;:&quot;host&quot;},{&quot;suffix&quot;:&quot;corp&quot;},{&quot;suffix&quot;:&quot;local&quot;},{&quot;suffix&quot;:&quot;localhost&quot;},{&quot;suffix&quot;:&quot;invalid&quot;},{&quot;suffix&quot;:&quot;test&quot;}],&quot;allow_mode_switch&quot;:false}</string>
+    <string name="team_name">yjj798</string>
+    <boolean name="onboardingstatus" value="true" />
+    <boolean name="is_service_running" value="true" />
+    <string name="warp_plus_reward_info">{"premium_data_bytes":1000000000,"referral_reward_bytes":1000000000,"denylist":[]}</string>
+    <string name="warp_token">7c645c1b-6cf1-4735-955f-fb2559303481</string>
+    <boolean name="is_managed" value="false" />
+    字符串名称="类型2"&t;超_瓦尔p_UDP&l;/字符串&t;
+    <string name="warp_private_key">vhSI/U8w0M9CJrVJuSdbPM29Af3hxnfytaLZNS0k4Y8=</string>
+    <boolean name="autostart_tunnel" value="false" />
+</map>
